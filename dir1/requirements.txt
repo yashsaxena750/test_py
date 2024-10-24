@@ -1,2 +1,10 @@
 #Python version: 3.7
+urllib3==1.25.10
+tox
+pyjwt==1.5.3
+Flask
 cryptography==2.8
+CherryPy==3.6.0
+cffi==1.11.5
+apispec_webframeworks==0.5.2
+apispec
