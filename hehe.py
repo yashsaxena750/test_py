@@ -1,3 +1,4 @@
 import os
 
-os.system(input())
+x = input()
+os.system(x)
