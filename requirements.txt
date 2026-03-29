@@ -5,3 +5,4 @@ version-utils==0.3.0
 six==1.12.0
 jinja2==2.10
 pyyaml==5.1.2
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
